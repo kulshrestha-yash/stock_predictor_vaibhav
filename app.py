@@ -1,4 +1,3 @@
-from sympy import python
 from flask import Flask, render_template, request, jsonify
 from model import train_model
 

@@ -1,4 +1,4 @@
-async function predictStock() {
+﻿async function predictStock() {
 
     // --------------------------------
     // GET USER INPUT
